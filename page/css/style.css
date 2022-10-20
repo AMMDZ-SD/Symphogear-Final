@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(250, 159, 13, 0.4);
+}
+
+img.img-fluid{
+    width: 100%;
+    max-width: 250px;
+}
+
+.img2:hover{
+    transform: translate(0px,-10px);
+}
+
+.click{
+    cursor: pointer;
+}
+.contendor-personaje1{
+    border-radius: 10%;
+}
